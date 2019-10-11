@@ -4,5 +4,5 @@ Position: Teaching Assistant CMPT 310 course (Artificial Intelligence) on Spring
 Goal: Teach basic Python concepts for students that aren't originally from the Computer Science department.  
 
 ## References 
-https://github.com/mGalarnyk/Python_Tutorials
+https://github.com/mGalarnyk/Python_Tutorials  
 https://www.tutorialspoint.com/python/index.htm
